@@ -57,7 +57,7 @@ Overclock（以下简称「本应用」）是一款认知训练应用。我们�
 
 ### 10. 联系我们
 
-如对本隐私政策有任何疑问，请联系：**YOUR_EMAIL**
+如对本隐私政策有任何疑问，请联系：roustinee@outlook.com
 
 ---
 
@@ -114,4 +114,4 @@ If this policy changes materially, we will notify you in the App or in release n
 
 ### 10. Contact
 
-For any questions about this Privacy Policy, please contact: **YOUR_EMAIL**
+For any questions about this Privacy Policy, please contact: roustinee@outlook.com
