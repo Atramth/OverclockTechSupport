@@ -48,7 +48,7 @@
 
 ### 10. 联系我们
 
-如有任何问题，请联系：**YOUR_EMAIL**
+如有任何问题，请联系：roustinee@outlook.com
 
 ---
 
@@ -96,4 +96,4 @@ If these terms change, we will post the update in the App or in release notes. C
 
 ### 10. Contact
 
-For any questions, please contact: **YOUR_EMAIL**
+For any questions, please contact: roustinee@outlook.com
